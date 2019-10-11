@@ -33,6 +33,7 @@ NeoBundle 'itchyny/lightline.vim'
 NeoBundle 'bronson/vim-trailing-whitespace'
 NeoBundle 'Yggdroot/indentLine'
 NeoBundle 'freeo/vim-kalisi'
+NeoBundle 'fatih/vim-go'
 
 call neobundle#end()
 filetype plugin indent on
